@@ -1,5 +1,5 @@
 inicio 
-Leer(b);
-x := c + b;
-escribir(x);
+Leer(x);
+z := x + y;
+escribir(z);
 fin
